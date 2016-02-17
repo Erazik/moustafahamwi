@@ -1,0 +1,15 @@
+<p class="form_title">Connect</>
+<p class="form_inp">
+    [text* your-name placeholder "Full Name"] </p>
+
+<p class="form_inp">
+    [email* email-252 placeholder "Email"] </p>
+
+<p class="form_inp">
+[select menu-72   placeholder "How can I help you?" "Speaking engagement" "Coaching" "Passion workshop" "Question for Passion Sundays" "Media"]
+</p>
+
+<p class="form_inp">
+    [textarea textarea-821 placeholder "Write something..."] </p>
+
+<p class="form_btn">[submit "Submit"]</p>
